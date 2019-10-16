@@ -1,5 +1,5 @@
-import { AccountItem } from "../models/AccountItem";
-import { AccountInfo } from "../models/AccountInfo";
+import { AccountItem } from "../models/accountItem";
+import { AccountInfo } from "../models/accountInfo";
 import { AnyAction } from "redux";
 
 export interface MainProps {
